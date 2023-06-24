@@ -1,0 +1,62 @@
+.backgroundColor{
+
+    -fx-background-color: linear-gradient(to left,#61D8DE, #E839F6);
+}
+.background-pane {
+
+ -fx-background-color: #333333 ;
+}
+.border-pane {
+    -fx-background-color: #000000;
+
+}
+
+
+.split-pane {
+    -fx-divider-position: 0.5;
+}
+
+
+.anchor-pane {
+    -fx-background-color: #fff-fff;
+}
+
+.label {
+
+    -fx-font-size: 16px;
+    -fx-text-fill: #333333;
+    -fx-font-style: italic;
+     -fx-text-fill: black;
+}
+
+
+.text {
+
+    -fx-font-size: 18px;
+    -fx-text-fill: #666666;
+}
+
+
+.button {
+    -fx-background-color: #000000;
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+}
+
+
+.text-field {
+    -fx-font-size: 12px;
+}
+
+
+.password-field {
+    -fx-font-size: 12px;
+}
+
+
+.login-label {
+
+    -fx-font-size: 60px;
+    -fx-text-fill: #333333;
+    -fx-font-style: italic;
+}

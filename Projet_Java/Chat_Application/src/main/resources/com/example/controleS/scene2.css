@@ -1,0 +1,35 @@
+
+.backgroundColor{
+
+    -fx-background-color: linear-gradient(to left,#61D8DE, #E839F6);
+}
+.button-connect {
+    -fx-background-color: #48b538;
+    -fx-text-fill: white;
+    -fx-font: bold 12px "System";
+}
+
+.label-host,
+.label-port {
+    -fx-font: italic 16px "System";
+}
+
+.text-field {
+    -fx-font-family: Arial;
+}
+
+.list-view {
+    -fx-background-color: #f2f2f2;
+    -fx-background-color: linear-gradient(to left,#61D8DE, #E839F6);
+}
+
+.text-field-message {
+    -fx-pref-height: 17px;
+    -fx-pref-width: 299px;
+
+}
+
+.button-send {
+    -fx-pref-height: 26px;
+    -fx-pref-width: 119px;
+}
